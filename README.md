@@ -3,12 +3,16 @@
 
 **DATE:**
 12-5-26
+
 **NAME:**
 Kurapati Vishnu Vardhan Reddy
+
 **ROLL NO:**
 212223040103
+
 **DEPARTMENT:**
 B.E CSE
+
 ## Aim
 
 To Interface a Digital Input (IR pair ) to ARM IOT development board and write a program to obtain the data
